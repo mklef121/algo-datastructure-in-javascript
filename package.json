@@ -1,0 +1,17 @@
+{
+  "name": "my-algorithms",
+  "version": "1.0.0",
+  "description": "I used it to learn algorithm and datastructure in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest my-exercise --watch"
+  },
+  "keywords": [
+    "hello",
+    "test",
+    "algorithm",
+    "datastructure"
+  ],
+  "author": "miracool",
+  "license": "MIT"
+}
